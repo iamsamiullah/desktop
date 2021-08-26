@@ -9,7 +9,7 @@ https://www.reddit.com/r/wallpaper/comments/cltnjx/astronaut_2560_x_1440/
 
 ## SETUP
 Download the wallpaper and Date & Time widget from [this repo](https://github.com/samiullahqutbi/desktop/blob/main/various_time_and_date_by_harryawanda_dd1kbdz.rmskin)  or the website. Do note that installing something from deviantart.com requires an account.\
-Download [Rainmeter](https://www.rainmeter.net/)
+Download [Rainmeter](https://www.rainmeter.net/). You can [Hide your taskbar](https://www.wikihow.com/Hide-the-Windows-Taskbar) without any third party software.
 
 **Note:** If your resolution is smaller than 2560x1440 and you want the wallpaper with borders, follow these steps (Firefox):\
 Right click the wallpaper -> Open Image in New Tab -> Right Click again -> Set Image as Desktop Background -> Choose Position "Stretch" and click on Set as desktp background.
