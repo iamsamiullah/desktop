@@ -8,7 +8,7 @@ https://www.deviantart.com/harryawanda/art/Various-Time-and-Date-788687783
 https://www.reddit.com/r/wallpaper/comments/cltnjx/astronaut_2560_x_1440/
 
 ## SETUP
-Download the wallpaper and Date & Time widget from here or the website.\
+Download the wallpaper and Date & Time widget from here or the website. Do note that installing something from deviantart.com requires an account.\
 Download [Rainmeter](https://www.rainmeter.net/)
 
 **Note:** If your resolution is smaller than 2560x1440 and you want the wallpaper with borders, follow these steps (Firefox):\
